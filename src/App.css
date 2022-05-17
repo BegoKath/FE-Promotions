@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.carousel-caption {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.btncarousel{
+  position: absolute;
+  left:200px;
+  top:20px;
+  
+}
+.logo{
+  position: absolute;
+  right: 20px;
+
+}
+.price{
+  margin-top: 120px;
+}
